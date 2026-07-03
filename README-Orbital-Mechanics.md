@@ -1,4 +1,4 @@
-# Orbital Mechanics Simulator
+# Orbital Mechanics Simulator 
 
 A progressively complex orbital mechanics simulator built from scratch in Python. Starts with a 2D two-body animation and expands through four phases to a fully generalized N-body simulation in 3D space. All physics are derived from first principles using Newton's laws and numerical integration — no shortcut libraries for the core physics.
 
@@ -144,6 +144,27 @@ orbital-mechanics-simulator/
 
 ---
 
+## Linked Files
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/docs/02_equations_reference.txt]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/docs/03_resources.txt]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/orbit/03_resources.txt]] *(legacy duplicate of docs/03_resources.txt)*
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource1_orbital-mechanics-space.txt]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource2_alexkenan-2d-3d.txt]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource3_towardsdatascience-python.txt]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource4_libretexts-numerical-methods.txt]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource5_threebody-medium.txt]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource9_wikipedia-two-body.txt]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource9b_wikipedia-kepler-problem.txt]] *(resources 6, 7, 8, and 10 don't exist on disk — only 1-5, 9, 9b are present)*
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/orbit/saved_resources/resource1_orbital-mechanics-space.txt]] *(legacy duplicate copy, in orbit/saved_resources/)*
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/orbit/saved_resources/resource2_alexkenan-2d-3d.txt]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/orbit/saved_resources/resource3_towardsdatascience-python.txt]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/orbit/saved_resources/resource4_libretexts-numerical-methods.txt]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/orbit/saved_resources/resource5_threebody-medium.txt]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/orbit/saved_resources/resource9_wikipedia-two-body.txt]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/orbit/saved_resources/resource9b_wikipedia-kepler-problem.txt]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/notebooks/orbit.ipynb]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/sandbox_Orbit/orbit.ipynb]] *(duplicate copy of the same sandbox notebook)*
+
 ## Current Status
 
 Phase 1 is in progress. The notebook (`notebooks/orbit.ipynb`) contains initial gravity function definitions and imports. The full planning documents in `docs/` lay out the complete roadmap from Phase 1 through Phase 4.
@@ -151,3 +172,4 @@ Phase 1 is in progress. The notebook (`notebooks/orbit.ipynb`) contains initial 
 ---
 
 *Shane Gilbert — June 2026*
+[[Personal Coding Projects]]
