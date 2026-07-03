@@ -166,3 +166,9 @@ Phase 1 is in progress. The notebook (`notebooks/orbit.ipynb`) contains initial 
 
 *Shane Gilbert — June 2026*
 [[Personal Coding Projects]]
+
+![[01_pipeline_roadmap.md]]
+
+![[02_equations_reference.md]]
+
+![[03_resources.md]]
