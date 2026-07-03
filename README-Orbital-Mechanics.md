@@ -129,32 +129,32 @@ orbital-mechanics-simulator/
 ├── notebooks/
 │   └── orbit.ipynb                  # Phase 1 sandbox — early gravity functions and setup
 ├── docs/
-│   ├── 01_pipeline_roadmap.txt      # Full checklist for all four phases
-│   ├── 02_equations_reference.txt   # Complete equations reference (14 sections)
-│   └── 03_resources.txt             # 10 curated learning resources with annotations
+│   ├── 01_pipeline_roadmap.md        # Full checklist for all four phases
+│   ├── 02_equations_reference.md     # Complete equations reference (14 sections)
+│   └── 03_resources.md               # 10 curated learning resources with annotations
 └── saved_resources/                 # Archived content from key reference pages
-    ├── resource1_orbital-mechanics-space.txt
-    ├── resource2_alexkenan-2d-3d.txt
-    ├── resource3_towardsdatascience-python.txt
-    ├── resource4_libretexts-numerical-methods.txt
-    ├── resource5_threebody-medium.txt
-    ├── resource9_wikipedia-two-body.txt
-    └── resource9b_wikipedia-kepler-problem.txt
+    ├── resource1_orbital-mechanics-space.md
+    ├── resource2_alexkenan-2d-3d.md
+    ├── resource3_towardsdatascience-python.md
+    ├── resource4_libretexts-numerical-methods.md
+    ├── resource5_threebody-medium.md
+    ├── resource9_wikipedia-two-body.md
+    └── resource9b_wikipedia-kepler-problem.md
 ```
 
 ---
 
 ## Linked Files
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/docs/01_pipeline_roadmap.txt]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/docs/02_equations_reference.txt]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/docs/03_resources.txt]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource1_orbital-mechanics-space.txt]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource2_alexkenan-2d-3d.txt]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource3_towardsdatascience-python.txt]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource4_libretexts-numerical-methods.txt]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource5_threebody-medium.txt]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource9_wikipedia-two-body.txt]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource9b_wikipedia-kepler-problem.txt]] *(resources 6, 7, 8, and 10 don't exist on disk — only 1-5, 9, 9b are present)*
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/docs/01_pipeline_roadmap.md]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/docs/02_equations_reference.md]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/docs/03_resources.md]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource1_orbital-mechanics-space.md]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource2_alexkenan-2d-3d.md]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource3_towardsdatascience-python.md]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource4_libretexts-numerical-methods.md]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource5_threebody-medium.md]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource9_wikipedia-two-body.md]]
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource9b_wikipedia-kepler-problem.md]] *(resources 6, 7, 8, and 10 don't exist on disk — only 1-5, 9, 9b are present)*
 - [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/notebooks/orbit.ipynb]]
 - [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/sandbox_Orbit/orbit.ipynb]] *(duplicate copy of the same sandbox notebook)*
 
