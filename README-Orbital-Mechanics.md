@@ -147,7 +147,6 @@ orbital-mechanics-simulator/
 ## Linked Files
 - [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/docs/02_equations_reference.txt]]
 - [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/docs/03_resources.txt]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/orbit/03_resources.txt]] *(legacy duplicate of docs/03_resources.txt)*
 - [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource1_orbital-mechanics-space.txt]]
 - [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource2_alexkenan-2d-3d.txt]]
 - [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource3_towardsdatascience-python.txt]]
@@ -155,13 +154,6 @@ orbital-mechanics-simulator/
 - [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource5_threebody-medium.txt]]
 - [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource9_wikipedia-two-body.txt]]
 - [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource9b_wikipedia-kepler-problem.txt]] *(resources 6, 7, 8, and 10 don't exist on disk — only 1-5, 9, 9b are present)*
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/orbit/saved_resources/resource1_orbital-mechanics-space.txt]] *(legacy duplicate copy, in orbit/saved_resources/)*
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/orbit/saved_resources/resource2_alexkenan-2d-3d.txt]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/orbit/saved_resources/resource3_towardsdatascience-python.txt]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/orbit/saved_resources/resource4_libretexts-numerical-methods.txt]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/orbit/saved_resources/resource5_threebody-medium.txt]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/orbit/saved_resources/resource9_wikipedia-two-body.txt]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/orbit/saved_resources/resource9b_wikipedia-kepler-problem.txt]]
 - [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/notebooks/orbit.ipynb]]
 - [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/sandbox_Orbit/orbit.ipynb]] *(duplicate copy of the same sandbox notebook)*
 
