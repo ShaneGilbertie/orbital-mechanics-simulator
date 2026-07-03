@@ -145,6 +145,7 @@ orbital-mechanics-simulator/
 ---
 
 ## Linked Files
+- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/docs/01_pipeline_roadmap.txt]]
 - [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/docs/02_equations_reference.txt]]
 - [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/docs/03_resources.txt]]
 - [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource1_orbital-mechanics-space.txt]]
