@@ -145,18 +145,18 @@ orbital-mechanics-simulator/
 ---
 
 ## Linked Files
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/docs/01_pipeline_roadmap.md]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/docs/02_equations_reference.md]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/docs/03_resources.md]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource1_orbital-mechanics-space.md]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource2_alexkenan-2d-3d.md]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource3_towardsdatascience-python.md]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource4_libretexts-numerical-methods.md]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource5_threebody-medium.md]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource9_wikipedia-two-body.md]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/saved_resources/resource9b_wikipedia-kepler-problem.md]] *(resources 6, 7, 8, and 10 don't exist on disk — only 1-5, 9, 9b are present)*
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/notebooks/orbit.ipynb]]
-- [[Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/sandbox_Orbit/orbit.ipynb]] *(duplicate copy of the same sandbox notebook)*
+- [[01_pipeline_roadmap]]
+- [[02_equations_reference]]
+- [[03_resources]]
+- [[resource1_orbital-mechanics-space]]
+- [[resource2_alexkenan-2d-3d]]
+- [[resource3_towardsdatascience-python]]
+- [[resource4_libretexts-numerical-methods]]
+- [[resource5_threebody-medium]]
+- [[resource9_wikipedia-two-body]]
+- [[resource9b_wikipedia-kepler-problem]] *(resources 6, 7, 8, and 10 don't exist on disk — only 1-5, 9, 9b are present)*
+- [[#2 Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/notebooks/orbit.ipynb]]
+- [[#2 Projects/Code/Personal Coding Projects/orbital-mechanics-simulator/sandbox_Orbit/orbit.ipynb]] *(duplicate copy of the same sandbox notebook)*
 
 ## Current Status
 
@@ -167,8 +167,8 @@ Phase 1 is in progress. The notebook (`notebooks/orbit.ipynb`) contains initial 
 *Shane Gilbert — June 2026*
 [[Personal Coding Projects]]
 
-![[01_pipeline_roadmap.md]]
+![[01_pipeline_roadmap]]
 
-![[02_equations_reference.md]]
+![[02_equations_reference]]
 
-![[03_resources.md]]
+![[03_resources]]
